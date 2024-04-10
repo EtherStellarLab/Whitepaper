@@ -17,8 +17,8 @@ Blockchain technology has revolutionized finance by enabling peer-to-peer transa
 * **Utility:**  STELLAR tokens fuel the EtherStellar ecosystem, enabling users to:
     * **Governance:** Participate in voting on proposals that shape the future of the project.
     * **Staking:** Earn rewards for locking up STELLAR tokens and contributing to network security.
-    * **Decentralized Exchange Fees:** Pay minimal fees for trading on the native EtherStellar DEX (planned).
-    * **Access Exclusive Features:** Unlock premium services or functionalities within the EtherStellar ecosystem (to be defined).
+    * **Decentralized Exchange Fees:** Pay minimal fees for trading on the native EtherStellar DEX.
+    * **Access Exclusive Features:** Unlock premium services or functionalities within the EtherStellar ecosystem.
 
 **2.2 Gas-Fee-Less Transactions:**
 
@@ -28,11 +28,11 @@ EtherStellar leverages Arbitrum's optimistic rollup technology to achieve gas-fe
 
 **Distribution:**
 
-* **Team:** 5-10% (vested)
+* **Team:** 5-10%
 * **Treasury:** 10-20% (allocated for marketing, development, and ecosystem growth)
 * **Public Sale:** 60-75%
 * **Advisors/Partners:** 0-10%
-* **Lockdrop/Airdrop:** 0-5% (optional)
+* **Lockdrop/Airdrop:** 0-5%
 
 **4. Technology Stack**
 
@@ -76,9 +76,3 @@ EtherStellar aims to bridge the gap between the promise of blockchain technology
 **7. Disclaimer**
 
 This white paper is for informational purposes only and should not be considered investment advice. Please conduct your own research before making any investment decisions.
-
-**Note:**
-
-* Replace the bracketed sections with your specific information.
-* Consider adding a section on potential risks and challenges associated with the project.
-* This white paper is a starting point. You may need to adapt it based on your project's specific features and future developments.
